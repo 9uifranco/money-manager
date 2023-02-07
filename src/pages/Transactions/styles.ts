@@ -30,7 +30,7 @@ export const TransactionsTable = styled.table`
 `
 
 interface PriceHighlightProps {
-    variant?: "income" | "outcome"
+    variant?: "income" | "outcome" | string
 }
 
 export const PriceHighlight = styled.span<PriceHighlightProps>`
