@@ -2,9 +2,6 @@
 
 Income and expense tracker application made with React + Typescript using [JSON server](https://www.npmjs.com/package/json-server) to simulate the backend.
 
-![](src/demo-1.jpg)
-![](src/demo-2.jpg)
-
 ## Installation
 
 Clone the repository:
@@ -24,3 +21,9 @@ Run dev script:
 `
 npm run dev
 `
+
+## Demo
+
+![](src/demo-1.jpg)
+
+![](src/demo-2.jpg)
